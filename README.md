@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yannick !
+ # Hi, I’m Yannick ! :wave::wave:
 
 <p align="center">
     <a href="asset/git_banner.png"><img src="https://github.com/YannickLeCam/YannickLeCam/assets/149806445/f60e5b42-6fbd-4282-9614-7f539b159278" width="100%"></a>
